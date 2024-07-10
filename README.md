@@ -2,7 +2,8 @@
 
 Welcome to the repository for the project developed for the completion of the Static Web Development module. This project was created using only HTML and CSS, aiming to demonstrate the knowledge acquired during the course.
 
-![print](https://fonjonpetcare.com/wp-content/uploads/2023/05/BG-Banner-1024x100.png](https://github.com/katherineuchoas/htmlandcss/blob/main/images/bannerhtml.png?raw=true)
+![Banner HTML](https://github.com/katherineuchoas/htmlandcss/raw/main/images/bannerhtml.png)
+
 
 ## 🚀 Technologies
 
